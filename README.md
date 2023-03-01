@@ -36,12 +36,13 @@ The source data resides in S3 and needs to be processed in Sparkify's data wareh
 For this project, datasets that will be working on are as follows with the s3 links for each:
 
 Log data: s3://udacity-dend/log_data
+
 Song data: s3://udacity-dend/song_data
 
 
 # Project Template
 
-With these template files, you will be able see the new DAG in the Airflow UI. The graph view should look like this:
+With these template files, will be able see the new DAG in the Airflow UI. The graph view should look like this:
 
 ![image](https://user-images.githubusercontent.com/103359089/222222170-fe356c67-5796-41a4-8401-b2793d8024a6.png)
 
