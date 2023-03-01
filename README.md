@@ -49,6 +49,10 @@ With these template files, will be able see the new DAG in the Airflow UI. The g
 
 # Configuring the DAG
 
+Configuring the task dependencies so that after the dependencies are set, the graph view follows the flow shown in the image below.
+
+
+
 ![image](https://user-images.githubusercontent.com/103359089/222222449-94319f7e-b8fd-475f-9757-29717c0d0da4.png)
 
 
